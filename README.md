@@ -6,7 +6,12 @@ exposuredetect is a straightforward Python 3 tool leveraging the CriminalIP API 
 exposuredetect tool is designed to cater to a wide range of users, including pentesters, security researchers, OSINT (Open-Source Intelligence) practitioners, and red teamers. Its versatility allows professionals from various security disciplines to utilize the tool effectively and efficiently in their respective fields.  
   
 ## Installation And Setup  
-  
+
+1. Clone the repository
+```  
+git clone https://github.com/leem4464/exposuredetect.git
+```
+
 2. Prepare and activate the virtual environment :  
 ```  
 $ python3 -m venv myenv  
