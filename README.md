@@ -21,7 +21,7 @@ $ source myenv/bin/activate
   
 3. Install requirements :  
 ```  
-(myenv) $ pip install requirements.txt  
+(myenv) $ pip install -r requirements.txt  
 ```  
   
 To utilize the tool, it is essential to obtain an API key from CriminalIP. This key should be included in the script exposuredetect.py by opening it with your preferred editor and assigning it to the api_key variable in the 4th line .  
